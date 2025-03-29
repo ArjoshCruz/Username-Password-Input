@@ -1,0 +1,17 @@
+main {
+    max-width: 600px;
+}
+
+label {
+    font-size: 30px;
+}
+input {
+    font-size: 48px;
+}
+div {
+    margin-bottom: 20px;
+}
+button {
+    font-size: 36px;
+    padding: 6px 238px;
+}
